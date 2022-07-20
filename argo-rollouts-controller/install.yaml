@@ -5,6 +5,7 @@ metadata:
   annotations:
     controller-gen.kubebuilder.io/version: v0.5.0
   name: analysisruns.argoproj.io
+  namespace: argo-rollouts
 spec:
   group: argoproj.io
   names:
